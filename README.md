@@ -32,14 +32,14 @@
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
  
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=guluzarkarakoc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=guluzarkarakoc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=guluzarkarakoc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=guluzarkarakoc&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guluzarkarakoc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=guluzarkarakoc&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=guluzarkarakoc&theme=radical&no-frame=true&no-bg=false&margin-w=4) 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=guluzarkarakoc&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=guluzarkarakoc&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 
 
